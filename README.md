@@ -26,6 +26,7 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="GitHub.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="Imagem do WhatsApp de 2023-01-19 à(s) 00.37.36.jpg">
 </div>
 </div>
 

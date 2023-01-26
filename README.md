@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e criador de contéudo de tecnologia!
+    Sou Desenvolvedor Front End, estudando para me tornar Full Stack!
   </p>
  
 </div>
